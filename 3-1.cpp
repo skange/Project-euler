@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<inttypes.h>
-#define NUM 35
+#define NUM 600851475143
 int main() {
 	int64_t num = NUM;
 	int64_t max;
